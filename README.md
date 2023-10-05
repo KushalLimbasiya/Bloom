@@ -2,7 +2,7 @@
 
 BeautyBlend is an exciting project that combines the power of React Native and Sanity to create a captivating hybrid mobile app for a beauty product shop. In this project, you will have the opportunity to learn and explore various technologies, including:
 
-/n
+
 
 # React Native
 
