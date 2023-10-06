@@ -23,7 +23,9 @@ const ProfileScreen = ({navigation}) => {
           Profile
         </Text>
 
+      <TouchableOpacity>
         <Entypo name="dots-three-vertical" size={24} color="#555" />
+      </TouchableOpacity>
       </View>
 
       <View className="items-center mt-8">
