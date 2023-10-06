@@ -24,6 +24,7 @@ const MyComponent = ({ setActiveScreen }) => {
   const navigation = useNavigation();
   LogBox.ignoreLogs(['Warning: ...']);
   LogBox.ignoreAllLogs();
+  
   useEffect(() => {
     const unsubscribe = navigation.addListener("state", () => {
       const currentScreen = navigation.getCurrentRoute().name;
