@@ -1,6 +1,7 @@
 # Bloom-Shooping-RN-App
 
-Bloom is an project that combines the power of React Native and Sanity to create a captivating hybrid mobile app for a beauty product shop. In this project, you will have the opportunity to learn and explore various technologies, including:
+BeautyBlend is an exciting project that combines the power of React Native and Sanity to create a captivating hybrid mobile app for a beauty product shop. In this project, you will have the opportunity to learn and explore various technologies, including:
+
 
 
 # React Native
@@ -23,13 +24,10 @@ Creating an appealing and user-friendly interface is crucial for a beauty produc
 
 You will learn how to interact with external APIs to fetch additional data, such as user reviews, product ratings, and stock availability. This integration will allow you to provide up-to-date information to users and enhance the functionality of the app.
 
-# To Run Expo App
-First install dependency 
-`
-npm install
-`
-and start Expo
-`
-npm start
-`
+# To create an expo app
 
+expo init
+
+# To start the sanity server
+
+yarn dev
